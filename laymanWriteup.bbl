@@ -1,0 +1,12 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+% type= misc
+\bibitem[{I. Kiato {et~al.}(2026)Kiato, Lipschultz, Kalogera, Andrews, Briel, Chattaraj, Gossage, \& Srivastava}]{kiato2026uncoveringphysicaloriginsblack}
+Kiato, I., Lipschultz, P., Kalogera, V., {et~al.} 2026, Uncovering the Physical Origins of Black Holes in the Milky Way for Astronomical Surveys, \doarXiv{2610.07152}
+
+\end{thebibliography}
