@@ -1,0 +1,23 @@
+# Local Quartz clone (recreate with scripts/setup-quartz.sh)
+quartz/
+
+# LaTeX aux
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+content/.obsidian/workspace*
+content/.obsidian/workspace.json
+content/.obsidian/cache
+content/paper/.obsidian/
